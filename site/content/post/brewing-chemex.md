@@ -1,26 +1,19 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
-image: /img/blog-chemex.jpg
+title: iHerb Celebrates its 22nd Anniversary!
+date: 2018-08-31T15:00:00.000Z
+description: test
+image: /img/22nd-pr-banner.png
 ---
+This September marks [iHerb's](https://www.iherb.com/info/about) 22nd year of serving customers around the world. To celebrate, iHerb is offering its customers a 22% discount on a different product or category every day for the month of September.
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+_"iHerb continues to innovate on behalf of customers around the world with the highest quality products, offered at the best possible value, delivered with the most convenient customer experience."_
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+In 1996 iHerb began selling St. John’s Wort to customers as a natural approach to ease symptoms of depression. Since then, iHerb has grown into one of the top global e-commerce companies offering the best overall value in natural products to millions of customers around the world.
 
-## The little secrets of Chemex brewing
+Today, iHerb offers over 30,000 products from over 1,200 top global name brands in many popular categories including vitamins, supplements, health, and beauty. iHerb ensures high product quality and freshness with its GMP certified state-of-the-art climate controlled distribution centers.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+"Product quality is important to customers around the world. Our iTested program represents our commitment to meet our customer needs with transparency and assurance of high-quality standards at every stage of production in our family of brands."
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+iHerb values its customers through its on-going investment in the iHerb Rewards and Customer Loyalty programs. iHerb has been ranked #1 in retail Customer Satisfaction*, providing 24/7 customer support in 11 different languages to a global customer base in over 150 countries. Customers can download the iHerb app to shop conveniently on their smartphones. Orders on iHerb are delivered to customers within 1-3 days in the US and 3-5 business days globally.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+About iHerb: iHerb is one of the largest US-based e-commerce retailers offering 30,000 products from 1,200 top brands to millions of customers around the world. iHerb ships directly from GMP certified, state-of-the-art climate controlled warehouses to customers in over 150 countries. Since 1996, iHerb has continued to innovate in bringing the highest quality products, at the best possible value, delivered with the most convenient customer experience. https://www.iherb.com/
