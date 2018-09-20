@@ -1,20 +1,32 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: '22'
+subtitle: '22'
+image: /img/22nd-pr-banner.png
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: iHerb Celebrates its 22nd Anniversary!
+  text: ''
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: ''
+  text: >-
+    This September marks iHerb's 22nd year of serving customers around the
+    world. To celebrate, iHerb is offering its customers a 22% discount on a
+    different product or category every day for the month of September.
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - text: >-
+      "iHerb continues to innovate on behalf of customers around the world with
+      the highest quality products, offered at the best possible value,
+      delivered with the most convenient customer experience."
+  - text: >-
+      In 1996 iHerb began selling St. John’s Wort to customers as a natural
+      approach to ease symptoms of depression. Since then, iHerb has grown into
+      one of the top global e-commerce companies offering the best overall value
+      in natural products to millions of customers around the world.
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Our values
+  text: >-
+    Coffee is an amazing part of human culture but it has a dark side too – one
+    of colonialism and mindless abuse of natural resources and human lives. We
+    want to turn this around and return the coffee trade to the drink’s
+    exhilarating, empowering and unifying nature.
 ---
 
